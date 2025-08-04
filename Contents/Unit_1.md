@@ -94,9 +94,7 @@ Materials used in civil engineering construction can be broadly classified based
 
 <img width="602" height="352" alt="image" src="https://github.com/user-attachments/assets/e8dcb486-33cf-484f-b7f8-c9067956b1f6" />
 
-
-<img width="887" height="644" alt="image" src="https://github.com/user-attachments/assets/239f889d-511f-4e01-9d08-01703e143126" />
-
+<img width="310" height="225" alt="473928468-239f889d-511f-4e01-9d08-01703e143126" src="https://github.com/user-attachments/assets/cb9ed15a-ecf2-4dc4-acb9-6a6816e8c1f3" />
 
 ---
 
@@ -252,8 +250,6 @@ The performance of any construction material depends on its inherent physical an
 - **Definition:** Texture refers to the surface characteristics of a material — whether it is smooth, rough, or grainy.
 - **Importance:** Texture affects bonding with other materials (e.g., cement paste adherence to aggregate) and the visual quality of finishes in architectural applications.
 
-📌 _Insert Image: Close-up of different material textures (e.g., smooth marble, rough brick, coarse aggregate)_
-
 ---
 
 ### 🔹 Mechanical Properties
@@ -278,9 +274,10 @@ The performance of any construction material depends on its inherent physical an
 - **Importance:** Relevant for flooring materials, finishes, and pavements exposed to mechanical wear.
 - **Testing Methods:** Brinell, Vickers, or Mohs hardness tests
 
-<img width="717" height="522" alt="image" src="https://github.com/user-attachments/assets/137cbb7e-9b94-4612-b112-824449ffb0a4" />
+<img width="323" height="235" alt="473934293-137cbb7e-9b94-4612-b112-824449ffb0a4" src="https://github.com/user-attachments/assets/a67a95f4-61a2-440b-9bcb-e4829efd595b" />
 
 ---
+
 ### 🔹 Durability and Chemical Resistance
 
 #### **Durability**
@@ -559,7 +556,7 @@ Several interrelated criteria guide the selection of appropriate building materi
 
 ### 🔹 1.6.3 Flowchart: Basic Material Selection Strategy
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/55d50deb-b1af-4a8e-a2f9-f2ef854e9301" />
+<img width="358" height="513" alt="473951211-55d50deb-b1af-4a8e-a2f9-f2ef854e9301" src="https://github.com/user-attachments/assets/4c12b63e-090f-4c1c-87cb-7d317fb48fb5" />
 
 ---
 
