@@ -1,6 +1,6 @@
 # 📘 Indian Standard Codes
 
-## 🔗 The latest IS codes can be downloaded from the [BIS Official Website](https://www.bis.gov.in) after registering for a free account.
+### 🔗 The latest IS codes can be downloaded from the [BIS Official Website](https://www.bis.gov.in) after registering for a free account.
 
 ---
 
