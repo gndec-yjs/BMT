@@ -1,7 +1,7 @@
 # Unit 1: Introduction to Building Materials  
 **Total Lecture Hours: 8**
 
-[Material – definition](#1.1_tntroduction_to_building_materials), [classifications (engineering, non-engineering and structural, non-structural)](#1.2_classification_of_materials), types (brittle, ductile, composites and cementitious materials, etc.); Desirable properties and specifications for building materials; Selection of appropriate materials during engineering design & construction
+[Material – definition](#1.1_introduction_to_building_materials), [classifications (engineering, non-engineering and structural, non-structural)](#1.2_classification_of_materials), types (brittle, ductile, composites and cementitious materials, etc.); Desirable properties and specifications for building materials; Selection of appropriate materials during engineering design & construction
 
 ## 1.1 Introduction to Building Materials
 
