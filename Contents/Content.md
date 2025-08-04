@@ -11,6 +11,7 @@ Material – definition, classifications (engineering, non-engineering and struc
 Concrete, bricks, steel, stones, timber – Composition/ constituent materials, production, and applications; Material microstructure, load-deformation response, effect on the strength and other material properties like toughness, water absorption, permeability; Characteristics strength, determination, and its reporting **(14L)**
 
 📌 **[Assignment 2]()**
+
 ---
 
 ### **Part B**
