@@ -1,4 +1,4 @@
-# 📞 Contact
+# 📧 Contact
 
 For any academic queries or course-related communication, feel free to reach out via email:
 
