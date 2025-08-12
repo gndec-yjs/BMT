@@ -95,7 +95,7 @@ Building materials can be classified based on various factors such as usage, ori
 
 ## 1.3 Types of Materials
 
-Materials used in civil engineering construction can be broadly classified based on their **mechanical behavior** and **composite nature**. Understanding their behavior under load is essential for design and safety.
+Materials used in civil engineering construction can be broadly classified based on their **mechanical behavior** and **composite nature**. Understanding their behaviour under load is essential for design and safety.
 
 <img width="602" height="352" alt="image" src="https://github.com/user-attachments/assets/e8dcb486-33cf-484f-b7f8-c9067956b1f6" />
 
