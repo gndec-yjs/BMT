@@ -31,7 +31,7 @@ Modern civil engineers must:
 
 ## 1.2 Classification of Materials
 
-Building materials can be classified based on various factors such as usage, origin, structural role, and behavior.
+Building materials can be classified based on various factors such as usage, origin, structural role, and behaviour.
 
 ### 1.2.1 Based on Engineering Purpose
 
