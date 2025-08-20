@@ -429,7 +429,7 @@ A specification is a detailed, precise description of materials, workmanship, an
 
 ### 🔹 1.5.3 Introduction to Relevant IS Codes
 
-Indian Standards (IS) published by BIS (Bureau of Indian Standards) act as reference documents for preparing specifications in India.
+Indian Standards (IS) published by [BIS (Bureau of Indian Standards)](https://www.bis.gov.in/) act as reference documents for preparing specifications in India.
 
 #### **Common IS Codes for Material Specifications**
 
@@ -677,7 +677,7 @@ On-site exposure is crucial for civil engineering students to bridge the gap bet
 
 ## 1.8 Key IS Codes Referenced
 
-The Indian Standards (IS) issued by the **Bureau of Indian Standards (BIS)** play a vital role in regulating the quality, testing, usage, and specifications of construction materials. Students must become familiar with key codes relevant to various materials discussed in this course.
+The Indian Standards (IS) issued by the [**Bureau of Indian Standards (BIS)**](https://www.bis.gov.in/) play a vital role in regulating the quality, testing, usage, and specifications of construction materials. Students must become familiar with key codes relevant to various materials discussed in this course.
 
 ---
 
@@ -742,7 +742,7 @@ The Indian Standards (IS) issued by the **Bureau of Indian Standards (BIS)** pla
 ### 🔹 1.8.5 Activity Prompt
 
 **Task for Students:**  
-Search the BIS website (https://www.bis.gov.in/) and list any **two IS codes** related to:
+Search the [BIS website](https://www.bis.gov.in/) and list any **two IS codes** related to:
 - concrete or steel, OR
 - Waterproofing chemicals or admixtures
 
