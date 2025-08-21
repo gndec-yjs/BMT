@@ -28,5 +28,5 @@
 
 ---
 
-📝 *This list is not exhaustive. Refer to the latest IS codes on the [BIS portal](https://www.services.bis.gov.in:8071/php/BIS_2.0/) for updates.*
+📝 *This list is not exhaustive. Refer to the latest IS codes on the [BIS portal](https://www.bis.gov.in) for updates.*
 
