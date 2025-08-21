@@ -5,7 +5,7 @@
 **[Unit 1:](Unit_1.md)**  
 Material – definition, classifications (engineering, non-engineering and structural, non-structural), types (brittle, ductile, composites and cementitious materials, etc.); Desirable properties and specifications for building materials; Selection of appropriate materials during engineering design & construction **(8L)**
 
-📌 **[Assignment 1]()**
+📌 **[Assignment 1](Assignment_2025/1.md)**
 
 **Unit 2:**  
 Concrete, bricks, steel, stones, timber – Composition/ constituent materials, production, and applications; Material microstructure, load-deformation response, effect on the strength and other material properties like toughness, water absorption, permeability; Characteristics strength, determination, and its reporting **(14L)**
