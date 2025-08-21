@@ -17,7 +17,7 @@ Late submissions **will not be accepted**, so plan accordingly.
 | Task                                  | Due Date                     | Submission Link |
 |--------------------------------------|-------------------------------|----------------|
 | Assignment 1 Submission               | 30 August 2025 (Saturday) 11:59 PM | [Submit Here](https://gndec-yjs.github.io/BMT/Contents/Assignment_2025/1.html) |
-| Assignment 2 Submission               | ** Sep 2025 (________) 11:59 PM   | [Submit Here](#) |
+| Assignment 2 Submission               | XX Sep 2025 (________) 11:59 PM   | [Submit Here](#) |
 
 
 ---
