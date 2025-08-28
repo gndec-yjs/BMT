@@ -13,7 +13,7 @@
 
 # 📘 Unit 2: Building Materials
 
-## [2.1 Concrete](#21-concrete)
+- **[2.1 Concrete](#21-concrete)**
 - [2.1.1 Composition and Constituent Materials](#211-composition-and-constituent-materials)  
 - [2.1.2 Production and Batching Methods](#212-production-and-batching-methods)  
   - [Weight vs. Volume Batching (Tabular Difference)](#weight-vs-volume-batching-tabular-difference)  
@@ -27,7 +27,7 @@
 - [2.1.8 Applications in Construction](#218-applications-in-construction)  
 - [2.1.9 Relevant IS Codes](#219-relevant-is-codes)  
 
-## [2.2 Bricks](#22-bricks)  
+- **[2.2 Bricks](#22-bricks) ** 
 - [2.2.1 Composition and Raw Materials](#221-composition-and-raw-materials)  
 - [2.2.2 Manufacturing Process](#222-manufacturing-process)  
 - [2.2.3 Microstructure](#223-microstructure)  
@@ -37,7 +37,7 @@
 - [2.2.7 Defects in Bricks](#227-defects-in-bricks)  
 - [2.2.8 Relevant IS Codes](#228-relevant-is-codes)  
 
-## [2.3 Steel](#23-steel)  
+- **[2.3 Steel](#23-steel)**  
 - [2.3.1 Composition and Types](#231-composition-and-types)  
 - [2.3.2 Production](#232-production)  
 - [2.3.3 Microstructure](#233-microstructure)  
@@ -47,7 +47,7 @@
 - [2.3.7 Applications](#237-applications)  
 - [2.3.8 Relevant IS Codes](#238-relevant-is-codes)  
 
-## [2.4 Stones](#24-stones)  
+- **[2.4 Stones](#24-stones)** 
 - [2.4.1 Composition and Classification](#241-composition-and-classification)  
 - [2.4.2 Quarrying and Production](#242-quarrying-and-production)  
 - [2.4.3 Microstructure](#243-microstructure)  
@@ -57,7 +57,7 @@
 - [2.4.7 Defects in Stones](#247-defects-in-stones)  
 - [2.4.8 Relevant IS Codes](#248-relevant-is-codes)  
 
-## [2.5 Timber](#25-timber)  
+- **[2.5 Timber](#25-timber)**  
 - [2.5.1 Composition and Structure](#251-composition-and-structure)  
 - [2.5.2 Seasoning and Preservation](#252-seasoning-and-preservation)  
 - [2.5.3 Microstructure](#253-microstructure)  
@@ -67,11 +67,11 @@
 - [2.5.7 Applications](#257-applications)  
 - [2.5.8 Relevant IS Codes](#258-relevant-is-codes)  
 
-## [2.6 Comparative Summary](#26-comparative-summary)  
+- **[2.6 Comparative Summary](#26-comparative-summary)**
 
-## [2.7 Key IS Codes](#27-key-is-codes)  
+- **[2.7 Key IS Codes](#27-key-is-codes)**  
 
-## [2.8 Activities and Exercises](#28-activities-and-exercises)  
+- **[2.8 Activities and Exercises](#28-activities-and-exercises)**  
 
 ---
 
