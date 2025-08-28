@@ -15,8 +15,7 @@
 
 - **[2.1 Concrete](#21-concrete)**
   - [2.1.1 Composition and Constituent Materials](#211-composition-and-constituent-materials)  
-  - [2.1.2 Production and Batching Methods](#212-production-and-batching-methods)  
-    - [Weight vs. Volume Batching (Tabular Difference)](#weight-vs-volume-batching-tabular-difference)  
+  - [2.1.2 Production of Concrete](#212-production-of-concrete)  
   - [2.1.3 Microstructure of Concrete](#213-microstructure-of-concrete)  
   - [2.1.4 Stress–Strain and Load–Deformation Response](#214-stress–strain-and-load–deformation-response)  
   - [2.1.5 Strength Properties](#215-strength-properties)  
@@ -139,7 +138,7 @@ Concrete is a **composite construction material** made primarily from cement, fi
   * Air-entraining agents – improve frost resistance
   * Mineral admixtures – fly ash, silica fume, slag (improve durability & reduce heat of hydration)
 
-## [2.1.2 Production and Batching Methods](#212-production-and-batching-methods)
+## [2.1.2 Production of Concrete](#212-production-of-concrete)
 
 Concrete production involves several stages to ensure uniformity, strength, and durability.
 
@@ -148,7 +147,7 @@ Concrete production involves several stages to ensure uniformity, strength, and 
 * **Weight Batching (preferred):** Ingredients measured by mass → accurate & consistent.
 * **Volume Batching:** Ingredients measured by volume → less accurate, prone to errors.
 
-#### Weight vs. Volume Batching (Tabular Difference)
+#### Weight vs. Volume Batching
 
 | Feature           | Weight Batching              | Volume Batching                     |
 | ----------------- | ---------------------------- | ----------------------------------- |
@@ -179,7 +178,7 @@ Concrete production involves several stages to ensure uniformity, strength, and 
 * **Methods:** Water curing, wet coverings, membrane curing, steam curing.
 * **Duration:** Minimum 7–14 days depending on cement type.
 
-### Segregation vs. Bleeding (Tabular Difference)
+### Segregation vs. Bleeding
 
 | Aspect     | Segregation                                 | Bleeding                         |
 | ---------- | ------------------------------------------- | -------------------------------- |
