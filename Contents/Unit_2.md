@@ -860,27 +860,30 @@ Steel is one of the most important construction materials due to its high tensil
 
 For the most current versions and detailed specifications, please refer to the official [BIS Standards Portal](https://bis.gov.in/).
 
-| **Material** | **Relevant IS Codes**                                               | **Description**                                                                      |
-| ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **Concrete** | [IS 456](https://bis.gov.in/standards/standards/IS%20456.pdf)       | Code of Practice for Plain and Reinforced Concrete                                   |
-|              | [IS 10262](https://bis.gov.in/standards/standards/IS%2010262.pdf)   | Guidelines for Concrete Mix Design Proportioning                                     |
-|              | [IS 516](https://bis.gov.in/standards/standards/IS%20516.pdf)       | Methods of Tests for Strength of Concrete                                            |
-|              | [IS 1199](https://bis.gov.in/standards/standards/IS%201199.pdf)     | Methods of Sampling and Analysis of Concrete                                         |
-| **Bricks**   | [IS 1077](https://bis.gov.in/standards/standards/IS%201077.pdf)     | Common Burnt Clay Building Bricks – Specification                                    |
-|              | [IS 3495](https://bis.gov.in/standards/standards/IS%203495.pdf)     | Methods of Tests of Burnt Clay Building Bricks                                       |
-|              | [IS 2212](https://bis.gov.in/standards/standards/IS%202212.pdf)     | Code of Practice for Brickwork                                                       |
-| **Steel**    | [IS 1786](https://bis.gov.in/standards/standards/IS%201786.pdf)     | High Strength Deformed Steel Bars and Wires for Concrete Reinforcement               |
-|              | [IS 2062](https://bis.gov.in/standards/standards/IS%202062.pdf)     | Hot Rolled Medium and High Tensile Structural Steel                                  |
-|              | [IS 800](https://bis.gov.in/standards/standards/IS%20800.pdf)       | General Construction in Steel – Code of Practice                                     |
-|              | [IS 1608](https://bis.gov.in/standards/standards/IS%201608.pdf)     | Mechanical Testing of Metals – Tensile Testing                                       |
-| **Stones**   | [IS 1121-1](https://bis.gov.in/standards/standards/IS%201121-1.pdf) | Methods of Test for Determination of Compressive Strength of Natural Building Stones |
-|              | [IS 1121-2](https://bis.gov.in/standards/standards/IS%201121-2.pdf) | Methods of Test for Determination of Transverse Strength of Natural Building Stones  |
-|              | [IS 1121-3](https://bis.gov.in/standards/standards/IS%201121-3.pdf) | Methods of Test for Determination of Tensile Strength of Natural Building Stones     |
-|              | [IS 1597](https://bis.gov.in/standards/standards/IS%201597.pdf)     | Construction of Stone Masonry – Code of Practice                                     |
-| **Timber**   | [IS 287](https://bis.gov.in/standards/standards/IS%20287.pdf)       | Permissible Moisture Content for Timber Used for Different Purposes                  |
-|              | [IS 1708](https://bis.gov.in/standards/standards/IS%201708.pdf)     | Methods of Testing Small Clear Specimens of Timber                                   |
-|              | [IS 1141](https://bis.gov.in/standards/standards/IS%201141.pdf)     | Code of Practice for Seasoning of Timber                                             |
-|              | [IS 401](https://bis.gov.in/standards/standards/IS%20401.pdf)       | Code of Practice for Preservation of Timber                                          |
+Here’s your table with the IS codes **de-linked** as requested:
+
+| **Material** | **Relevant IS Codes** | **Description**                                                                      |
+| ------------ | --------------------- | ------------------------------------------------------------------------------------ |
+| **Concrete** | IS 456                | Code of Practice for Plain and Reinforced Concrete                                   |
+|              | IS 10262              | Guidelines for Concrete Mix Design Proportioning                                     |
+|              | IS 516                | Methods of Tests for Strength of Concrete                                            |
+|              | IS 1199               | Methods of Sampling and Analysis of Concrete                                         |
+| **Bricks**   | IS 1077               | Common Burnt Clay Building Bricks – Specification                                    |
+|              | IS 3495               | Methods of Tests of Burnt Clay Building Bricks                                       |
+|              | IS 2212               | Code of Practice for Brickwork                                                       |
+| **Steel**    | IS 1786               | High Strength Deformed Steel Bars and Wires for Concrete Reinforcement               |
+|              | IS 2062               | Hot Rolled Medium and High Tensile Structural Steel                                  |
+|              | IS 800                | General Construction in Steel – Code of Practice                                     |
+|              | IS 1608               | Mechanical Testing of Metals – Tensile Testing                                       |
+| **Stones**   | IS 1121-1             | Methods of Test for Determination of Compressive Strength of Natural Building Stones |
+|              | IS 1121-2             | Methods of Test for Determination of Transverse Strength of Natural Building Stones  |
+|              | IS 1121-3             | Methods of Test for Determination of Tensile Strength of Natural Building Stones     |
+|              | IS 1597               | Construction of Stone Masonry – Code of Practice                                     |
+| **Timber**   | IS 287                | Permissible Moisture Content for Timber Used for Different Purposes                  |
+|              | IS 1708               | Methods of Testing Small Clear Specimens of Timber                                   |
+|              | IS 1141               | Code of Practice for Seasoning of Timber                                             |
+|              | IS 401                | Code of Practice for Preservation of Timber                                          |
+
 
 ---
 
