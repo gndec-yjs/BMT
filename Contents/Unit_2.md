@@ -1,3 +1,16 @@
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+    
+<script type="text/javascript"
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 # 📘 Unit 2: Building Materials
 
 ## [2.1 Concrete](#21-concrete)
@@ -578,3 +591,304 @@ Steel is one of the most important construction materials due to its high tensil
 * IS 800 – Code of practice for general construction in steel.
 
 ---
+
+## [2.4 Stones](#24-stones)
+
+### [2.4.1 Composition and Classification](#241-composition-and-classification)
+
+* **Composition**:
+  Stones are naturally occurring aggregates of minerals. The primary minerals found are **silica, alumina, lime, iron oxides, and magnesia**. Their properties depend upon mineral content and bonding.
+
+* **Classification of Stones**:
+
+  1. **Geological Classification**
+
+     * *Igneous rocks*: Granite, Basalt, Trap.
+     * *Sedimentary rocks*: Sandstone, Limestone.
+     * *Metamorphic rocks*: Marble, Slate, Quartzite.
+
+  2. **Physical Classification**
+
+     * Stratified (Sandstone, Limestone).
+     * Unstratified (Granite, Trap).
+     * Foliated (Slate, Gneiss).
+
+  3. **Chemical Classification**
+
+     * Siliceous (Granite, Quartzite).
+     * Argillaceous (Slate, Laterite).
+     * Calcareous (Limestone, Marble).
+
+  📌 *\[Figure Placeholder: Flowchart of classification of stones]*
+
+### [2.4.2 Quarrying and Production](#242-quarrying-and-production)
+
+* **Quarrying Methods**:
+
+  1. Digging and Excavation
+  2. Heating (fire setting method)
+  3. Wedging with steel wedges
+  4. Blasting with controlled explosives (for hard stones like granite)
+
+* **Production Steps**:
+
+  1. Quarrying
+  2. Dressing (manual or machine cutting to required shapes)
+  3. Seasoning (air-drying to remove moisture)
+  4. Transportation to site
+
+📌 *\[Figure Placeholder: Quarrying and dressing process diagram]*
+
+### [2.4.3 Microstructure](#243-microstructure)
+
+* Stones have **crystalline or granular structures** depending on their mineral origin.
+* **Granite**: crystalline quartz, feldspar, mica.
+* **Sandstone**: granular silica bound with natural cementing materials.
+* **Marble**: crystalline calcite interlocking crystals.
+
+📌 *\[Figure Placeholder: Microstructure of granite vs. marble vs. sandstone]*
+
+### [2.4.4 Load–Deformation Response](#244-load–deformation-response)
+
+* Stones are **brittle** in nature.
+* Stress–strain curve shows:
+
+  * Linear elastic behavior up to failure.
+  * No yielding like steel.
+* Modulus of elasticity (E):
+
+  * Granite: 50–70 GPa
+  * Marble: 30–50 GPa
+  * Sandstone: 20–40 GPa
+
+📌 *\[Graph Placeholder: Stress–strain curve of stone vs. concrete vs. steel]*
+
+### [2.4.5 Strength and Other Properties](#245-strength-and-other-properties)
+
+* **Compressive Strength**:
+
+  * Granite: 100–250 MPa
+  * Basalt: 200–350 MPa
+  * Sandstone: 20–170 MPa
+  * Limestone: 30–250 MPa
+
+* **Other Properties**:
+
+  * Toughness index: measured by impact test.
+  * Water absorption: should not exceed 1–5% for building use.
+  * Specific gravity: 2.4–3.0.
+  * Hardness: tested by Moh’s scale (Granite – 6 to 7, Marble – 3).
+  * Durability: resistance to weathering, frost action, and chemical attack.
+
+📌 *\[Table Placeholder: Comparison of properties of granite, marble, sandstone, limestone]*
+
+### [2.4.6 Applications](#246-applications)
+
+* **Granite**: Foundations, columns, flooring, monuments.
+* **Marble**: Flooring, cladding, decorative finishes.
+* **Sandstone**: Wall construction, ornamental works.
+* **Slate**: Roofing tiles, damp-proof courses.
+* **Limestone**: Building blocks, raw material for cement.
+* **Quartzite**: Railway ballast, retaining walls.
+
+### [2.4.7 Defects in Stones](#247-defects-in-stones)
+
+* **Common Defects**:
+
+  1. **Cracks/Seams** – reduce strength.
+  2. **Sand Holes** – uneven texture.
+  3. **Spots** – stains due to iron oxide.
+  4. **Pores** – increase water absorption.
+  5. **Shake** – separation of layers due to weathering.
+
+📌 *\[Figure Placeholder: Photographs of common defects in stones]*
+
+### [2.4.8 Relevant IS Codes](#248-relevant-is-codes)
+
+* IS 1121 (Part 1–4): Methods of test for determination of strength properties of natural building stones.
+* IS 1122: Determination of true specific gravity of natural building stones.
+* IS 1123: Identification of natural building stones.
+* IS 1124: Determination of water absorption, apparent porosity and specific gravity of natural building stones.
+* IS 1125: Determination of weathering of natural building stones.
+* IS 1130: Marble (blocks, slabs and tiles).
+* IS 3620: Laterite stone building blocks.
+* IS 3316: Structural granite.
+
+---
+
+## [2.5 Timber](#25-timber)
+
+### [2.5.1 Composition and Structure](#251-composition-and-structure)
+
+* **Constituents of Timber:**
+
+  * **Cellulose (40–50%)**: Provides tensile strength.
+  * **Hemicellulose (20–30%)**: Binds cellulose fibers.
+  * **Lignin (20–30%)**: Provides rigidity and compressive strength.
+  * **Extractives (tannins, resins, oils)**: Provide durability and resistance.
+  * **Ash and minerals (≤1%)**: Minor but influence durability.
+
+* **Anatomical Structure:**
+
+  * **Pith:** Central core of the tree.
+  * **Heartwood:** Inner matured portion, stronger and darker.
+  * **Sapwood:** Outer younger layer, lighter, less durable.
+  * **Cambium Layer:** Growing zone between sapwood and bark.
+  * **Bark:** Protective outer covering.
+  * **Annual Rings:** Growth rings indicating age and climate conditions.
+
+*(Insert Figure Placeholder: Cross-section of tree showing pith, heartwood, sapwood, cambium, bark, annual rings)*
+
+### [2.5.2 Seasoning and Preservation](#252-seasoning-and-preservation)
+
+* **Seasoning of Timber** (removal of excess moisture):
+
+  * **Air Seasoning:** Natural drying, low cost, but slow.
+  * **Kiln Seasoning:** Artificial drying using controlled heat and humidity, faster and more uniform.
+  * **Solar Seasoning:** Uses solar energy, intermediate method.
+  * **Chemical Seasoning:** Salts and chemicals used to accelerate drying.
+
+* **Advantages of Seasoning:**
+
+  * Increases strength, reduces shrinkage and warping.
+  * Improves durability and resistance to decay.
+  * Enhances workability and surface finish.
+
+* **Preservation of Timber:**
+
+  * **Chemical Preservatives:** Creosote oil, coal tar, copper sulphate, sodium fluoride.
+  * **Methods:**
+
+    * *Brushing, spraying, dipping* – surface protection.
+    * *Pressure treatment (full-cell/empty-cell process)* – deep penetration for durability.
+
+*(Insert Figure Placeholder: Timber seasoning methods – air and kiln seasoning)*
+
+### [2.5.3 Microstructure](#253-microstructure)
+
+* Timber is an **anisotropic material**.
+* Microstructure consists of:
+
+  * **Fibers (tracheids):** Provide mechanical strength.
+  * **Vessels (pores):** Conduct water and nutrients.
+  * **Rays:** Radial structures for storage and transport.
+* **Hardwoods vs. Softwoods:**
+
+  * Hardwoods → presence of vessels, denser.
+  * Softwoods → mainly tracheids, lighter but strong.
+
+*(Insert Figure Placeholder: Microscopic view of hardwood vs. softwood structure)*
+
+### [2.5.4 Load–Deformation Response](#254-load–deformation-response)
+
+* Timber shows **orthotropic behavior** (properties differ along longitudinal, radial, tangential directions).
+* **Stress–strain curve:**
+
+  * Linear up to elastic limit.
+  * Nonlinear beyond due to fiber crushing and buckling.
+* **Load-bearing behavior:**
+
+  * Stronger along grain (longitudinal direction).
+  * Weak across grain (radial/tangential).
+* Exhibits **creep** under long-term loading.
+
+*(Insert Figure Placeholder: Stress–strain curve of timber along and across grain)*
+
+### [2.5.5 Strength and Other Properties](#255-strength-and-other-properties)
+
+* **Mechanical Properties:**
+
+  * Compressive strength (parallel to grain): 30–60 N/mm².
+  * Tensile strength (parallel to grain): 50–150 N/mm².
+  * Modulus of Elasticity (E): 7–20 GPa.
+* **Physical Properties:**
+
+  * Density: 300–1000 kg/m³ depending on species.
+  * Moisture content: Affects strength, decay, and weight.
+  * Permeability: Controls preservative treatment efficiency.
+  * Water absorption: Higher in sapwood.
+* **Durability:** Heartwood more durable than sapwood.
+
+### [2.5.6 Defects in Timber](#256-defects-in-timber)
+
+* **Natural Defects:**
+
+  * *Knots*: Branch bases within timber.
+  * *Shakes*: Cracks due to shrinkage or seasoning.
+  * *Rind galls*: Swollen wood due to injury.
+* **Seasoning Defects:**
+
+  * *Warping*: Distortion in shape.
+  * *Twisting*: Spiraled deformation.
+  * *Splitting/checking*: Surface cracks due to drying.
+* **Biological Defects:**
+
+  * *Fungal decay*: Dry rot, wet rot.
+  * *Insect attack*: Termites, beetles.
+
+*(Insert Figure Placeholder: Timber defects – knots, shakes, warping, termite attack)*
+
+### [2.5.7 Applications](#257-applications)
+
+* **Construction:** Beams, rafters, doors, windows, flooring.
+* **Furniture and Interior:** Chairs, tables, cabinets.
+* **Marine Structures:** Boats, ships (teak, sal wood).
+* **Railway Sleepers:** Sal, teak, deodar.
+* **Plywood, Laminates, Engineered wood**: For structural and decorative purposes.
+
+### [2.5.8 Relevant IS Codes](#258-relevant-is-codes)
+
+* IS 287 – Recommendations for maximum permissible moisture content of timber.
+* IS 1708 – Methods of testing small clear specimens of timber.
+* IS 401 – Preservation of timber.
+* IS 303 – Plywood for general purposes.
+* IS 3629 – Glossary of terms relating to timber technology.
+
+---
+
+## [2.6 Comparative Summary](#26-comparative-summary)
+
+| **Aspect**                                             | **Concrete**                                                                             | **Bricks**                                                           | **Steel**                                                                              | **Stones**                                                            | **Timber**                                                                                     |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Composition / Constituent Materials**                | Cement, fine & coarse aggregates, water, admixtures                                      | Clay, sand, lime, iron oxide, magnesia                               | Iron with carbon and alloying elements (Mn, Cr, Ni, V)                                 | Silica, alumina, lime, iron oxides, magnesia                          | Cellulose, hemicellulose, lignin, extractives                                                  |
+| **Production**                                         | Batching, mixing, transporting, placing, compaction, curing                              | Preparation of clay, molding, drying, burning in kiln                | Extraction of ore → Refining → Steel making (BOF/EAF) → Rolling/forming                | Quarrying, dressing, finishing, polishing                             | Felling, seasoning (natural/kiln), preservation                                                |
+| **Microstructure**                                     | Hydrated cement matrix binding aggregates; capillary pores                               | Fine crystalline clay structure with vitrified bonds                 | Ferrite, pearlite, cementite, martensite (depending on type)                           | Interlocked crystalline structure (igneous, sedimentary, metamorphic) | Cellular structure with annual growth rings, fibers, tracheids                                 |
+| **Load–Deformation Response**                          | Nonlinear, brittle in tension, ductile in compression (with reinforcement)               | Brittle, crushing failure under load                                 | Elastic–plastic, high ductility, clear yield plateau (mild steel)                      | Brittle, sudden fracture without warning                              | Initially elastic, non-linear, anisotropic (differs along grain)                               |
+| **Strength & Other Properties**                        | Compressive: 20–80 MPa; Tensile: 2–5 MPa; W/C ratio governs strength; durable but porous | Compressive: 3.5–35 MPa; low tensile strength; high water absorption | Yield strength grades (Fe 250, Fe 415, Fe 500…); Toughness, ductility; corrosion prone | Compressive: 20–300 MPa; strong, durable, heavy; low tension strength | Compressive: 5–50 MPa; Tension (parallel to grain) \~ 50–150 MPa; Tough but moisture-sensitive |
+| **Other Material Properties**                          | Toughness low; water absorption 5–15%; permeability depends on curing & W/C ratio        | Toughness low; water absorption high; porous                         | Excellent toughness & ductility; impermeable; corrosion reduces durability             | Tough, durable, impermeable when dense; porosity varies with type     | Moderate toughness; high water absorption & permeability if unseasoned                         |
+| **Characteristic Strength: Determination & Reporting** | Cube/cylinder compression test; reported as fck                                          | Compressive test on brick samples; reported as class (1st, 2nd, 3rd) | Tensile test (stress–strain curve); yield strength (Fe 250, 415…) reported             | Crushing test on stone specimen; reported in MPa                      | Compression, bending, shear tests; reported along & across grain                               |
+| **Applications**                                       | RCC, PCC, pavements, dams, buildings, bridges                                            | Masonry walls, partitions, paving, lining of furnaces                | RCC reinforcement, structural sections, pre-stressed concrete                          | Foundations, retaining walls, flooring, cladding, monuments           | Roof trusses, beams, doors, windows, flooring, furniture                                       |
+
+---
+
+## [2.7 Key IS Codes](#27-key-is-codes)
+
+For the most current versions and detailed specifications, please refer to the official [BIS Standards Portal](https://bis.gov.in/).
+
+| **Material** | **Relevant IS Codes**                                               | **Description**                                                                      |
+| ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Concrete** | [IS 456](https://bis.gov.in/standards/standards/IS%20456.pdf)       | Code of Practice for Plain and Reinforced Concrete                                   |
+|              | [IS 10262](https://bis.gov.in/standards/standards/IS%2010262.pdf)   | Guidelines for Concrete Mix Design Proportioning                                     |
+|              | [IS 516](https://bis.gov.in/standards/standards/IS%20516.pdf)       | Methods of Tests for Strength of Concrete                                            |
+|              | [IS 1199](https://bis.gov.in/standards/standards/IS%201199.pdf)     | Methods of Sampling and Analysis of Concrete                                         |
+| **Bricks**   | [IS 1077](https://bis.gov.in/standards/standards/IS%201077.pdf)     | Common Burnt Clay Building Bricks – Specification                                    |
+|              | [IS 3495](https://bis.gov.in/standards/standards/IS%203495.pdf)     | Methods of Tests of Burnt Clay Building Bricks                                       |
+|              | [IS 2212](https://bis.gov.in/standards/standards/IS%202212.pdf)     | Code of Practice for Brickwork                                                       |
+| **Steel**    | [IS 1786](https://bis.gov.in/standards/standards/IS%201786.pdf)     | High Strength Deformed Steel Bars and Wires for Concrete Reinforcement               |
+|              | [IS 2062](https://bis.gov.in/standards/standards/IS%202062.pdf)     | Hot Rolled Medium and High Tensile Structural Steel                                  |
+|              | [IS 800](https://bis.gov.in/standards/standards/IS%20800.pdf)       | General Construction in Steel – Code of Practice                                     |
+|              | [IS 1608](https://bis.gov.in/standards/standards/IS%201608.pdf)     | Mechanical Testing of Metals – Tensile Testing                                       |
+| **Stones**   | [IS 1121-1](https://bis.gov.in/standards/standards/IS%201121-1.pdf) | Methods of Test for Determination of Compressive Strength of Natural Building Stones |
+|              | [IS 1121-2](https://bis.gov.in/standards/standards/IS%201121-2.pdf) | Methods of Test for Determination of Transverse Strength of Natural Building Stones  |
+|              | [IS 1121-3](https://bis.gov.in/standards/standards/IS%201121-3.pdf) | Methods of Test for Determination of Tensile Strength of Natural Building Stones     |
+|              | [IS 1597](https://bis.gov.in/standards/standards/IS%201597.pdf)     | Construction of Stone Masonry – Code of Practice                                     |
+| **Timber**   | [IS 287](https://bis.gov.in/standards/standards/IS%20287.pdf)       | Permissible Moisture Content for Timber Used for Different Purposes                  |
+|              | [IS 1708](https://bis.gov.in/standards/standards/IS%201708.pdf)     | Methods of Testing Small Clear Specimens of Timber                                   |
+|              | [IS 1141](https://bis.gov.in/standards/standards/IS%201141.pdf)     | Code of Practice for Seasoning of Timber                                             |
+|              | [IS 401](https://bis.gov.in/standards/standards/IS%20401.pdf)       | Code of Practice for Preservation of Timber                                          |
+
+---
+
+
+
+
