@@ -27,7 +27,7 @@
   - [2.1.8 Applications in Construction](#218-applications-in-construction)  
   - [2.1.9 Relevant IS Codes](#219-relevant-is-codes)  
 
-- **[2.2 Bricks](#22-bricks) =** 
+- **[2.2 Bricks](#22-bricks)** 
   - [2.2.1 Composition and Raw Materials](#221-composition-and-raw-materials)  
   - [2.2.2 Manufacturing Process](#222-manufacturing-process)  
   - [2.2.3 Microstructure](#223-microstructure)  
