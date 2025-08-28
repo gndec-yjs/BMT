@@ -889,6 +889,43 @@ For the most current versions and detailed specifications, please refer to the o
 
 ---
 
+## [2.8 Activities and Exercises](#28-activities-and-exercises)
+
+**For Theory Learning and Conceptual Understanding**
+
+### **1. Conceptual Discussion Questions**
+
+1. Explain how **water–cement ratio** affects concrete strength and durability.
+2. Compare the **stress–strain response** of steel and timber under tensile loading.
+3. Discuss why certain **stones** are preferred for bridges but not for decorative facades.
+4. Explain the role of **admixtures** in concrete production.
+5. Compare **mild steel and HYSD/TMT steel** for reinforcement in concrete structures.
+
+### **2. Comparative Analysis Exercises**
+
+* Prepare a **table or concept map** comparing the following properties for **concrete, bricks, steel, stones, and timber**:
+
+  * Composition / Constituent materials
+  * Typical applications
+  * Strength and toughness
+  * Water absorption and permeability
+  * Common defects and durability issues
+
+### **3. Case Study Discussions**
+
+1. A coastal building is exposed to high chloride content. Identify the most suitable construction materials and justify your choices.
+2. A masonry wall shows cracking under load. Based on material properties, what could be the possible reasons?
+3. For a multi-story building in an earthquake-prone zone, analyze the combination of materials to maximize **strength, ductility, and durability**.
+
+### **4. Self-Assessment / Reflection**
+
+* Explain in 3–4 sentences why **TMT steel** is preferred in earthquake-resistant structures.
+* List **two advantages and two limitations** of clay bricks compared to fly ash bricks.
+* Reflect on how **microstructure** of a material influences its load–deformation behavior and strength.
+
+---
+
+
 
 
 
