@@ -23,7 +23,6 @@
   - [Compressive Strength vs. Target Mean Strength (Tabular Difference)](#compressive-strength-vs-target-mean-strength-tabular-difference)  
   - [2.1.6 Durability, Permeability and Water Absorption](#216-durability-permeability-and-water-absorption)  
   - [2.1.7 Defects in Concrete](#217-defects-in-concrete)  
-    - [Segregation vs. Bleeding (Tabular Difference)](#segregation-vs-bleeding-tabular-difference)  
   - [2.1.8 Applications in Construction](#218-applications-in-construction)  
   - [2.1.9 Relevant IS Codes](#219-relevant-is-codes)  
 
