@@ -19,7 +19,6 @@
   - [2.1.3 Microstructure of Concrete](#213-microstructure-of-concrete)  
   - [2.1.4 Stress–Strain and Load–Deformation Response](#214-stress–strain-and-load–deformation-response)  
   - [2.1.5 Strength Properties](#215-strength-properties)  
-    - [Compressive Strength vs. Target Mean Strength](#compressive-strength-vs-target-mean-strength)  
   - [2.1.6 Durability, Permeability and Water Absorption](#216-durability-permeability-and-water-absorption)  
   - [2.1.7 Defects in Concrete](#217-defects-in-concrete)  
   - [2.1.8 Applications in Construction](#218-applications-in-construction)  
