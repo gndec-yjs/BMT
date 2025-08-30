@@ -17,7 +17,7 @@
   - [2.1.1 Composition and Constituent Materials](#211-composition-and-constituent-materials)  
   - [2.1.2 Production of Concrete](#212-production-of-concrete)  
   - [2.1.3 Microstructure of Concrete](#213-microstructure-of-concrete)  
-  - [2.1.4 Stress–Strain and Load–Deformation Response](#214-stress-–strain-and-load-–deformation-response)  
+  - [2.1.4 Stress-Strain and Load-Deformation Response](#214-stress-strain-and-load-deformation-response)
   - [2.1.5 Strength Properties](#215-strength-properties)  
   - [2.1.6 Durability, Permeability and Water Absorption](#216-durability-permeability-and-water-absorption)  
   - [2.1.7 Defects in Concrete](#217-defects-in-concrete)  
@@ -228,7 +228,7 @@ Concrete also contains large aggregates (sand and gravel) that are encapsulated 
 ### **_Significance_**
 The microstructure of hydrated concrete dictates its properties. A well-developed microstructure, with a dense C–S–H network and well-distributed pores, leads to high strength and low permeability, which is crucial for the durability and performance of concrete structures. 
 
-## [2.1.4 Stress–Strain and Load–Deformation Response](#214-stress–strain-and-load–deformation-response)
+## [2.1.4 Stress-Strain and Load-Deformation Response](#214-stress-strain-and-load-deformation-response)
 
 * Stress–strain curve of concrete is **non-linear**.
 * **In compression:** Rapid rise, peak, followed by descending branch (brittle failure).
