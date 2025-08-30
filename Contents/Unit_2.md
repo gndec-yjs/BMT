@@ -234,7 +234,30 @@ The microstructure of hydrated concrete dictates its properties. A well-develope
 * **In compression:** Rapid rise, peak, followed by descending branch (brittle failure).
 * **In tension:** Very low strength, sudden brittle failure.
 
-📌 *\[Placeholder: Stress–Strain Curve for Concrete]*
+<img width="640" height="530" alt="image" src="https://github.com/user-attachments/assets/e98b925a-7631-419d-ac1b-7f7fda16d4e2" />
+
+_Fig: Typical stress-strain curve for concrete_
+
+A stress-strain curve for concrete plots compressive stress (y-axis) against compressive strain (x-axis) to show its behavior under load. The curve starts linear, then becomes nonlinear as micro-cracks form, eventually reaching a peak stress and failing. The slope of the initial linear portion is the modulus of elasticity, while the curve's overall shape, particularly the parabolic-to-constant form in some standards, is crucial for structural design.
+ 
+### _Components of the Stress-Strain Curve_
+
+**Stress (Y-axis):** This represents the force per unit area applied to the concrete.
+**Strain (X-axis):** This represents the deformation or change in shape of the concrete under the applied load.
+
+### _Key Characteristics_
+
+**1. Nonlinear Behavior:** Unlike initially linear materials, concrete's stress-strain curve quickly becomes nonlinear due to micro-cracks forming at the aggregate-cement paste interface and within the paste itself as load increases. 
+**2. Modulus of Elasticity (E):** The initial, nearly linear part of the curve's slope provides the modulus of elasticity, indicating concrete's stiffness and resistance to deformation. 
+**3. Ultimate Strength:** The curve reaches a peak value representing the ultimate compressive strength of the concrete. 
+**4. Rupture Point:** After reaching its peak, the concrete begins to crush and fails, which is known as the rupture point. 
+**5. Design Standards:** For design purposes, an idealized stress-strain curve is often used, which is typically parabolic up to a certain strain (e.g., 0.002) and then constant until the failure point (e.g., 0.0035). 
+
+<img width="708" height="695" alt="image" src="https://github.com/user-attachments/assets/d23e8d92-ac6c-4731-b749-f18f21e2d0df" />
+
+_Fig: Idealized Stress–Strain Curve for Concrete (IS 456)_
+
+The idealized stress–strain curve for concrete is codified in the Indian Standard IS:456-2000, where it's defined as a parabolic-rectangular curve. This idealized curve, used for designing reinforced concrete structures, shows stress increasing parabolically with strain up to 0.002, then remaining constant at a reduced design stress level (0.67fck/1.5 = 0.45fck) up to an ultimate strain of 0.0035. 
 
 
 ## [2.1.5 Strength Properties](#215-strength-properties)
@@ -250,6 +273,13 @@ where
 * $f_{ck}$ = Compressive strength (MPa)
 * $P$ = Load at failure (N)
 * $A$ = Loaded area (mm²)
+
+<img width="560" height="315" alt="image" src="https://github.com/user-attachments/assets/80b8140d-dcad-4ea2-9b73-9fa24b7cdeb3" />
+
+<img width="864" height="420" alt="image" src="https://github.com/user-attachments/assets/6beb040d-3de6-4c2a-aba2-d29b656bbd2f" />
+
+<img width="795" height="564" alt="image" src="https://github.com/user-attachments/assets/7dace06d-31bc-4b7a-bc36-4a67989b3e23" />
+
 
 ### Target Mean Strength
 
@@ -316,6 +346,8 @@ where
 
 Bricks are primarily made from **clay** and other additives that improve performance.
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d491c1c1-1d63-48fd-a8e1-5aaa07e7b919" />
+
 * **Clay Minerals**
 
   * Kaolinite, Illite, Montmorillonite.
@@ -364,9 +396,13 @@ The production of bricks involves **four main stages**:
    * Burning temperature: **900–1100°C**.
    * Develops strength, hardness, and durability.
 
-📌 *\[Placeholder for Figure: Flowchart of Brick Manufacturing Process]*
+<img width="685" height="555" alt="image" src="https://github.com/user-attachments/assets/df7f7957-ed6f-4f45-a7f5-8c896f569307" />
 
-> **Reference:** IS 2116 – Sand for masonry mortars, IS 5454 – Method for sampling of clay.
+_Fig: Brick Manufacturing Process_
+
+<img width="640" height="557" alt="image" src="https://github.com/user-attachments/assets/360fae0c-0f8e-4e3a-8dbc-c5b6c56e9c68" />
+
+_Fig: Block diagram of brick manufacturing._
 
 ## [2.2.3 Microstructure](#223-microstructure)
 
@@ -375,7 +411,11 @@ The production of bricks involves **four main stages**:
 * **Pores** influence water absorption and durability.
 * Microstructural features such as voids, cracks, and orientation of clay particles impact strength.
 
-📌 *\[Placeholder for Figure: SEM image of Brick Microstructure]*
+<img width="513" height="437" alt="image" src="https://github.com/user-attachments/assets/fac75fe7-37f2-4c32-ad07-3dc52e5c875f" />
+
+_Fig: SEM image of Clay Brick Microstructure_
+
+_A scanning electron microscope (SEM) image of brick microstructure reveals a complex, heterogeneous material composed of fired clay particles, mineral aggregates, and a network of pores. The exact appearance varies depending on the raw materials used, the firing temperature, and any additives._
 
 ## [2.2.4 Load–Deformation Response](#224-load–deformation-response)
 
