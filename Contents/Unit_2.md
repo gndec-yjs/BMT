@@ -17,7 +17,7 @@
   - [2.1.1 Composition and Constituent Materials](#211-composition-and-constituent-materials)  
   - [2.1.2 Production of Concrete](#212-production-of-concrete)  
   - [2.1.3 Microstructure of Concrete](#213-microstructure-of-concrete)  
-  - [2.1.4 Stress–Strain and Load–Deformation Response](#214-stress–strain-and-load–deformation-response)  
+  - [2.1.4 Stress–Strain and Load–Deformation Response](#214-stress-–strain-and-load-–deformation-response)  
   - [2.1.5 Strength Properties](#215-strength-properties)  
   - [2.1.6 Durability, Permeability and Water Absorption](#216-durability-permeability-and-water-absorption)  
   - [2.1.7 Defects in Concrete](#217-defects-in-concrete)  
@@ -87,13 +87,19 @@ Concrete is a **composite construction material** made primarily from cement, fi
   * Setting time (initial & final)
   * Soundness (resistance to volume change)
   * Strength (compressive strength of cement mortar cubes)
+    
 * **Composition (by oxides):**
 
-  * CaO (lime): Strength, soundness
-  * SiO₂ (silica): Strength development at later stages
-  * Al₂O₃ (alumina): Reduces clinkering temperature, controls setting
-  * Fe₂O₃ (iron oxide): Color, contributes to strength
-  * MgO, SO₃: In small quantities, regulate properties
+| **Oxide Component**        | **Typical % Range in OPC** | **Role / Function**                                                     |
+| -------------------------- | -------------------------- | ----------------------------------------------------------------------- |
+| **CaO (Lime)**             | 60 – 67 %                  | Provides strength and soundness; excess causes unsoundness              |
+| **SiO₂ (Silica)**          | 17 – 25 %                  | Contributes to strength development at later stages (C-S-H formation)   |
+| **Al₂O₃ (Alumina)**        | 3 – 8 %                    | Lowers clinkering temperature; influences setting time                  |
+| **Fe₂O₃ (Iron oxide)**     | 0.5 – 6 %                  | Imparts color; contributes slightly to strength; acts as flux           |
+| **MgO (Magnesia)**         | 0.1 – 4 % (≤ 6% as per IS) | Small amounts improve strength; excess leads to expansion & unsoundness |
+| **SO₃ (Sulphur trioxide)** | 1 – 3 % (≤ 3.5% as per IS) | Controls setting time; regulates expansion                              |
+| **Na₂O + K₂O (Alkalis)**   | 0.2 – 1 %                  | Can cause efflorescence & alkali-aggregate reaction if high             |
+
 * **Main compounds (Bogue’s):**
 
   * C₃S (early strength)
@@ -191,7 +197,36 @@ Concrete production involves several stages to ensure uniformity, strength, and 
 * The microstructure consists of **hydrated cement paste (C–S–H gel, CH crystals), unhydrated cement particles, aggregates, and pores.**
 * Strength and durability depend on porosity, interfacial transition zone (ITZ), and bond between aggregates and paste.
 
-📌 *\[Placeholder: Figure – Microstructure of Hydrated Concrete]*
+* The microstructure of hydrated concrete consists primarily of **calcium silicate hydrate (C–S–H) gel**, a complex, fibrous, or gel-like material formed from the reaction of cement and water, and calcium hydroxide (CH) crystals, which are thin, hexagonal plates. These hydration products, along with remaining unhydrated cement particles and a network of pores, interlock to create a rigid, hardened matrix that binds aggregates together. The overall microstructure is a heterogeneous composite of these phases, the exact nature of which significantly influences the mechanical properties and durability of the concrete.
+
+<img width="533" height="400" alt="image" src="https://github.com/user-attachments/assets/501602ac-4ecc-44e6-8b99-b3edf0ba161f" />
+
+_Fig: Microstructure of Hydrated Concrete_
+
+### **_Key Components of the Hydrated Microstructure_**
+
+- **C–S–H gel:** This is the main binding phase in concrete and is formed from the hydration of calcium silicates (alite and belite) in Portland cement. C–S–H is a poorly crystalline material with a high surface area and variable composition, providing much of the concrete's strength.
+  
+- **Calcium Hydroxide (CH):** Also known as portlandite, this is a product of cement hydration and appears as larger, dense hexagonal crystals. While it contributes to the mass of the hardened paste, it is often considered a less significant factor in strength than C–S–H and can be susceptible to acid attack.
+  
+- **Unhydrated Cement Particles:**
+Even after hardening, some cement particles remain unreacted. These are residual components within the microstructure that continue to hydrate and contribute to strength over time.
+
+- **Pores:**  
+The microstructure contains various pores, including the gel pores within the C–S–H gel and larger capillary pores. The distribution and size of these pores affect the concrete's permeability and overall durability.
+
+- **Aggregates:**
+Concrete also contains large aggregates (sand and gravel) that are encapsulated by the hydrated cement paste. These are not part of the cement paste microstructure itself but are essential components of the composite material. 
+
+### **_Formation and Properties_**
+
+1. **Hydration:** When water is added to Portland cement, the cement compounds begin a series of chemical reactions. 
+2. **Product Formation:** The reactions produce C–S–H gel, calcium hydroxide crystals, and other hydration products. 
+3. **Microstructure Development:** These products grow and interlock, filling the space and solidifying into a rigid, hardened mass that binds the aggregates. 
+4. **Variability:** The exact microstructure, including the ratio of C–S–H to CH and the pore network, is influenced by the cement's composition, the water-to-cement ratio, and curing conditions.
+
+### **_Significance_**
+The microstructure of hydrated concrete dictates its properties. A well-developed microstructure, with a dense C–S–H network and well-distributed pores, leads to high strength and low permeability, which is crucial for the durability and performance of concrete structures. 
 
 ## [2.1.4 Stress–Strain and Load–Deformation Response](#214-stress–strain-and-load–deformation-response)
 
