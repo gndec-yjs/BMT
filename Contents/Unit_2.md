@@ -72,13 +72,17 @@
 
 ---
 
-# [2.1 Concrete](#21-concrete)
+# [2.1 Concrete](#21-concrete) 
+
+### _For detailed content on Concrete visit another dedicated website on 'Concrete Technology' - [Click Here](https://gndec-yjs.github.io/CT)
 
 ## [2.1.1 Composition and Constituent Materials](#211-composition-and-constituent-materials)
 
 Concrete is a **composite construction material** made primarily from cement, fine aggregates, coarse aggregates, water, and sometimes admixtures. The performance of concrete depends significantly on the properties of each constituent.
 
 ### Cement
+
+#### _To read more about Cement, its properties and tests - [Click Here](https://gndec-yjs.github.io/CT/Contents/Cement.html)_
 
 * **Role:** Acts as the binding material, developing strength through hydration.
 * **Properties:**
@@ -109,6 +113,8 @@ Concrete is a **composite construction material** made primarily from cement, fi
 
 ### Fine Aggregates (Sand)
 
+#### _To read more about Aggregates - [Click Here](https://gndec-yjs.github.io/CT/Contents/Aggregates.html)_
+
 * **Role:** Fills voids between coarse aggregates, improves workability.
 * **Properties:**
 
@@ -119,6 +125,8 @@ Concrete is a **composite construction material** made primarily from cement, fi
 
 ### Coarse Aggregates
 
+#### _To read more about Aggregates - [Click Here](https://gndec-yjs.github.io/CT/Contents/Aggregates.html)_
+
 * **Role:** Provide bulk, strength, and dimensional stability.
 * **Properties:**
 
@@ -127,12 +135,16 @@ Concrete is a **composite construction material** made primarily from cement, fi
   * Water absorption
   * Grading for proper packing
 
-### Water
+### Water 
+
+#### _To read more about Water for making Concrete - [Click Here](https://gndec-yjs.github.io/CT/Contents/Water.html)_
 
 * **Role:** Hydration of cement + workability of mix.
 * **Requirement:** Must be free from salts, acids, organic matter.
 
 ### Admixtures
+
+#### _To read more about Admixtures - [Click Here](https://gndec-yjs.github.io/CT/Contents/Admixtures.html)_
 
 * **Role:** Modify properties of concrete for specific needs.
 * **Types:**
@@ -144,6 +156,10 @@ Concrete is a **composite construction material** made primarily from cement, fi
   * Mineral admixtures – fly ash, silica fume, slag (improve durability & reduce heat of hydration)
 
 ## [2.1.2 Production of Concrete](#212-production-of-concrete)
+
+#### _To read more about Properties & Production of Concrete_
+#### _[1. Click Here](https://gndec-yjs.github.io/CT/Contents/pdf/Production_of_Concrete.pdf)_
+#### _[and 2. Click Here](https://gndec-yjs.github.io/CT/Contents/pdf/Properties_of_Concrete.pdf)_
 
 Concrete production involves several stages to ensure uniformity, strength, and durability.
 
