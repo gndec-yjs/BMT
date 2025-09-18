@@ -305,13 +305,13 @@ $$
 
 where
 
-* $f_{cm}$ = Target mean strength
+* $f_{t}$ = Target mean strength
 * $f_{ck}$ = Characteristic strength
 * $\sigma$ = Standard deviation
 
-### Difference between Characteristic Compressive Strength (f_ck) and Target Mean Strength (f_t)
+### Difference between Characteristic Compressive Strength $(f_{ck})$ and Target Mean Strength $(f_{t})$
 
-| **Aspect** | **Characteristic Compressive Strength (fck)** | **Target Mean Strength (ft)** |
+| **Aspect** | **Characteristic Compressive Strength $(f_{ck})$** | **Target Mean Strength $(f_{t})$** |
 |------------|-----------------------------------------------|--------------------------------|
 | **Definition** | Minimum compressive strength below which not more than 5% of test results are expected to fall | Strength of concrete mix designed to ensure that the obtained strength is always greater than or equal to fck |
 | **Purpose** | Used as the basis for structural design | Used in mix design calculations to account for variability |
