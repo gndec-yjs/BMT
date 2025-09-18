@@ -300,7 +300,7 @@ where
 ### Target Mean Strength
 
 $$
-f_{cm} = f_{ck} + 1.65 \times \sigma
+f_{t} = f_{ck} + 1.65 \times \sigma
 $$
 
 where
@@ -309,13 +309,16 @@ where
 * $f_{ck}$ = Characteristic strength
 * $\sigma$ = Standard deviation
 
-#### Compressive Strength vs. Target Mean Strength
+### Difference between Characteristic Compressive Strength (f_ck) and Target Mean Strength (f_t)
 
-| Aspect       | Compressive Strength                      | Target Mean Strength                                        |
-| ------------ | ----------------------------------------- | ----------------------------------------------------------- |
-| Definition   | Strength obtained from cube/cylinder test | Strength required to ensure desired characteristic strength |
-| Based on     | Actual test results                       | Statistical consideration                                   |
-| IS Reference | Cube test (150 mm cube)                   | Mix design (IS 10262)                                       |
+| **Aspect** | **Characteristic Compressive Strength (fck)** | **Target Mean Strength (ft)** |
+|------------|-----------------------------------------------|--------------------------------|
+| **Definition** | Minimum compressive strength below which not more than 5% of test results are expected to fall | Strength of concrete mix designed to ensure that the obtained strength is always greater than or equal to fck |
+| **Purpose** | Used as the basis for structural design | Used in mix design calculations to account for variability |
+| **Value** | Specified in IS codes (e.g., M20 → fck = 20 MPa) | Higher than fck by a margin (depends on standard deviation) |
+| **Formula** | — | fcm = fck + 1.65 × σ (where σ = standard deviation) |
+| **Margin Considered** | No margin included | Includes margin to cover variations in materials, workmanship, and testing |
+| **Role in Practice** | Ensures minimum safety requirement for structures | Ensures that designed mixes actually achieve the required fck in practice |
 
 ## [2.1.6 Durability, Permeability and Water Absorption](#216-durability-permeability-and-water-absorption)
 
