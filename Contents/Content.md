@@ -16,7 +16,7 @@ Concrete, bricks, steel, stones, timber – Composition/ constituent materials, 
 
 ### **Part B**
 
-**Unit 3:**  
+**[Unit 3:](Unit_3.md)**  
 Other materials – Paint, Varnish, Bitumen and asphaltic materials; Water-proofing materials; Geo-textiles; Carbon composites; types and uses; Selection of suitable material in building construction; Methods of application **(10L)**
 
 📌 **Assignment 3**
