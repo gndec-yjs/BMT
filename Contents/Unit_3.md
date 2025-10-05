@@ -180,7 +180,7 @@
 | **Geotextiles**                   | Synthetic polymers such as polypropylene, polyester, polyethylene, or natural fibres (jute, coir)                      | Separation, filtration, drainage, reinforcement, protection                           | Woven, non-woven, knitted                                                                              | High tensile strength, permeability, chemical and biological resistance, flexibility | Road subgrades, embankments, retaining walls, landfills, drainage systems           | IS 16391 (Geotextiles – properties), ASTM D4595 (Tensile strength), ASTM D4491 (Permeability) |
 | **Carbon Composites**             | Carbon fibres + polymer matrix (epoxy, polyester, or vinyl ester resins)                                               | Structural strengthening, corrosion resistance, and lightweight reinforcement         | Carbon fibre-reinforced polymer (CFRP), Carbon-carbon composites                                       | High tensile strength, low density, corrosion resistance, fatigue durability         | Strengthening of RC beams, seismic retrofitting, aerospace, bridges, façade panels  | IS 15916 (FRP use in structures), ASTM D3039 (Tensile testing of CFRP), ACI 440.2R            |
 
-### 🔍 **Observations & Comparative Insights**
+### **Observations & Comparative Insights**
 
 | **Aspect**                  | **Paints**                   | **Bitumen**                 | **Waterproofing**                     | **Geotextiles**                  | **Carbon Composites**     |
 | --------------------------- | ---------------------------- | --------------------------- | ------------------------------------- | -------------------------------- | ------------------------- |
@@ -193,7 +193,7 @@
 | **Ease of Application**     | Easy (brush/spray)           | Heated or spread            | Brush / roller / spray / torch        | Laid or stitched                 | Requires skilled labour   |
 | **Typical Role**            | Aesthetic & protective       | Binder & waterproofing      | Barrier against water                 | Soil stabilization & separation  | Structural strengthening  |
 
-### 🧭 **Material Selection Guidelines in Building Construction**
+### **Material Selection Guidelines in Building Construction**
 
 | **Construction Element**  | **Recommended Material**                | **Reason / Function**                   |
 | ------------------------- | --------------------------------------- | --------------------------------------- |
