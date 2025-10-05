@@ -19,7 +19,7 @@ Concrete, bricks, steel, stones, timber – Composition/ constituent materials, 
 **[Unit 3:](Unit_3.md)**  
 Other materials – Paint, Varnish, Bitumen and asphaltic materials; Water-proofing materials; Geo-textiles; Carbon composites; types and uses; Selection of suitable material in building construction; Methods of application **(10L)**
 
-📌 **Assignment 3**
+📌 **[Assignment 3](Assignment_2025/3.md)**
 
 **Unit 4:**  
 Quality control - Sampling, Acceptance criterion, Code of practice and guidelines for different building materials such as Cements; Aggregates; Admixtures; Concrete, Bricks, Steel, Timbers **(5L)**
