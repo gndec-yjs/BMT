@@ -8,7 +8,7 @@
 
 ## 3.1 Paint, Varnish, Bitumen, and Asphaltic Materials
 
-### 📖 [Paints and Varnishes](Paints_and_Varnishes.md)
+### 📖 [Paints and Varnishes](Unit_3/Paints_and_Varnishes.md)
 
 **Definition:** Substances applied to surfaces for protection, decoration, or durability enhancement.
 
@@ -33,7 +33,7 @@
 * Brush, roller, spray
 * Surface cleaning and priming essential before application
 
-### 📖 [Bitumen and Asphaltic Materials](Bitumen_and_Asphaltic_Materials.md)
+### 📖 [Bitumen and Asphaltic Materials](Unit_3/Bitumen_and_Asphaltic_Materials.md)
 
 **Definition:** Hydrocarbon-based materials used for waterproofing and road surfacing.
 
@@ -57,7 +57,7 @@
 * Spraying, spreading, mixing with aggregates
 * Proper heating and compaction
 
-## 3.2 [Waterproofing Materials](Waterproofing_Materials.md)
+## 3.2 [Waterproofing Materials](Unit_3/Waterproofing_Materials.md)
 
 **Definition:** Materials used to prevent water penetration and moisture ingress.
 
@@ -82,7 +82,7 @@
 * Brush, trowel, spray coating
 * Sheet membranes with overlap and proper sealing
 
-## 3.3 [Geotextiles](Geotextiles.md)
+## 3.3 [Geotextiles](Unit_3/Geotextiles.md)
 
 **Definition:** Permeable fabrics used to improve soil performance.
 
@@ -106,7 +106,7 @@
 * Secured with pins or sand
 * Covered with soil or aggregates
 
-## 3.4 Carbon Composites
+## 3.4 [Carbon Composites](Unit_3/Carbon_Composites.md)
 
 **Definition:** High-strength, lightweight materials made of carbon fibers embedded in resin.
 
@@ -170,14 +170,39 @@
 * **Carbon Composites:** Verify bonding quality and surface preparation
 
 
-## 3.9 Key IS Codes Referenced
+## 3.9 Summary Table – Comparison of “Other Construction Materials”
 
-| Material                | IS Code  | Description                              |
-| ----------------------- | -------- | ---------------------------------------- |
-| Bitumen                 | IS 73    | Paving bitumen specification             |
-| Waterproofing Compounds | IS 2645  | Integral waterproofing compounds         |
-| Paints & Varnishes      | IS 2932  | Enamel paints specification              |
-| Geotextiles             | IS 16391 | Guidelines for geotextiles in road works |
+| **Material**                      | **Composition / Constituents**                                                                                         | **Primary Function / Purpose**                                                        | **Types / Classification**                                                                             | **Key Properties**                                                                   | **Applications in Civil Engineering**                                               | **Relevant IS / ASTM Codes**                                                                  |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Paints & Varnishes**            | Pigments, binders (resins/oils), solvents, additives, driers                                                           | Provide decorative finish, protection from corrosion, weathering, and chemical attack | Oil-based, water-based, emulsion, epoxy, enamel, acrylic, polyurethane, alkyd, etc.                    | Adhesion, opacity, colour retention, chemical resistance, film-forming ability       | External walls, steel structures, concrete surfaces, interior finishing             | IS 101 (Testing of paints), IS 2932 (Enamel paints), IS 5411 (Synthetic resin paints)         |
+| **Bitumen & Asphaltic Materials** | Hydrocarbon material derived from crude petroleum; mixture of asphaltenes and maltenes                                 | Binding and waterproofing agent for roads and roofs                                   | Penetration grade, viscosity grade, cutback, emulsified, blown bitumen, mastic asphalt                 | Adhesion, ductility, viscosity, softening point, waterproofing, durability           | Road construction (flexible pavements), damp-proofing, roofing felts, joint sealing | IS 73 (Bitumen), IS 702 (Industrial bitumen), ASTM D946, ASTM D5                              |
+| **Waterproofing Materials**       | Cementitious coatings, bituminous membranes, polymer-modified mortars, crystalline admixtures, PU and acrylic coatings | Prevent ingress of water, moisture, and chemical attack                               | Cementitious, bituminous, liquid-applied membranes, sheet membranes, integral waterproofing admixtures | Impermeability, elasticity, chemical resistance, adhesion, UV stability              | Roof slabs, basements, water tanks, podiums, retaining walls, bathrooms             | IS 2645 (Integral waterproofing), IS 3384 (Bituminous felts), ASTM C836 (Liquid membranes)    |
+| **Geotextiles**                   | Synthetic polymers such as polypropylene, polyester, polyethylene, or natural fibres (jute, coir)                      | Separation, filtration, drainage, reinforcement, protection                           | Woven, non-woven, knitted                                                                              | High tensile strength, permeability, chemical and biological resistance, flexibility | Road subgrades, embankments, retaining walls, landfills, drainage systems           | IS 16391 (Geotextiles – properties), ASTM D4595 (Tensile strength), ASTM D4491 (Permeability) |
+| **Carbon Composites**             | Carbon fibres + polymer matrix (epoxy, polyester, or vinyl ester resins)                                               | Structural strengthening, corrosion resistance, and lightweight reinforcement         | Carbon fibre-reinforced polymer (CFRP), Carbon-carbon composites                                       | High tensile strength, low density, corrosion resistance, fatigue durability         | Strengthening of RC beams, seismic retrofitting, aerospace, bridges, façade panels  | IS 15916 (FRP use in structures), ASTM D3039 (Tensile testing of CFRP), ACI 440.2R            |
+
+### 🔍 **Observations & Comparative Insights**
+
+| **Aspect**                  | **Paints**                   | **Bitumen**                 | **Waterproofing**                     | **Geotextiles**                  | **Carbon Composites**     |
+| --------------------------- | ---------------------------- | --------------------------- | ------------------------------------- | -------------------------------- | ------------------------- |
+| **Base Nature**             | Organic / polymeric coatings | Petroleum-based hydrocarbon | Cementitious / polymeric / bituminous | Synthetic / natural fibre fabric | Fibre-reinforced polymer  |
+| **Water Resistance**        | Moderate                     | Excellent                   | Excellent                             | Moderate (used with drainage)    | High                      |
+| **Mechanical Strength**     | Low                          | Moderate                    | Moderate                              | High (tensile)                   | Very High                 |
+| **Temperature Sensitivity** | Moderate                     | High                        | Variable (depends on polymer)         | Low                              | Stable (depends on resin) |
+| **Durability**              | 5–10 years                   | 5–15 years                  | 10–20 years                           | >25 years                        | 30–50 years               |
+| **Cost**                    | Low                          | Moderate                    | Moderate                              | Moderate                         | High                      |
+| **Ease of Application**     | Easy (brush/spray)           | Heated or spread            | Brush / roller / spray / torch        | Laid or stitched                 | Requires skilled labour   |
+| **Typical Role**            | Aesthetic & protective       | Binder & waterproofing      | Barrier against water                 | Soil stabilization & separation  | Structural strengthening  |
+
+### 🧭 **Material Selection Guidelines in Building Construction**
+
+| **Construction Element**  | **Recommended Material**                | **Reason / Function**                   |
+| ------------------------- | --------------------------------------- | --------------------------------------- |
+| External façade / walls   | Acrylic or PU paint                     | Weather resistance & aesthetics         |
+| Roof slab                 | Cementitious or PU waterproof coating   | Crack-bridging, UV resistance           |
+| Basement / retaining wall | Bituminous or crystalline waterproofing | Hydrostatic pressure resistance         |
+| Flexible pavements        | VG-30 / VG-40 bitumen                   | Adequate viscosity & rutting resistance |
+| Landfill or embankment    | Non-woven geotextile                    | Filtration & drainage                   |
+| RC beam strengthening     | CFRP sheets or laminates                | High tensile strength, corrosion-proof  |
 
 ## 3.10 Activities / Exercises
 
