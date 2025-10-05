@@ -8,7 +8,7 @@
 
 ## 3.1 Paint, Varnish, Bitumen, and Asphaltic Materials
 
-### 📖 Paints and Varnishes
+### 📖 [Paints and Varnishes](Paints_and_Varnishes.md)
 
 **Definition:** Substances applied to surfaces for protection, decoration, or durability enhancement.
 
@@ -33,7 +33,7 @@
 * Brush, roller, spray
 * Surface cleaning and priming essential before application
 
-### 📖 Bitumen and Asphaltic Materials
+### 📖 [Bitumen and Asphaltic Materials](Bitumen_and_Asphaltic_Materials.md)
 
 **Definition:** Hydrocarbon-based materials used for waterproofing and road surfacing.
 
@@ -57,7 +57,7 @@
 * Spraying, spreading, mixing with aggregates
 * Proper heating and compaction
 
-## 3.2 Waterproofing Materials
+## 3.2 [Waterproofing Materials](Waterproofing_Materials.md)
 
 **Definition:** Materials used to prevent water penetration and moisture ingress.
 
@@ -82,7 +82,7 @@
 * Brush, trowel, spray coating
 * Sheet membranes with overlap and proper sealing
 
-## 3.3 Geotextiles
+## 3.3 [Geotextiles](Geotextiles.md)
 
 **Definition:** Permeable fabrics used to improve soil performance.
 
