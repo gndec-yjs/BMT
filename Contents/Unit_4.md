@@ -8,13 +8,14 @@ Quality control – Sampling, Acceptance criterion, Code of practice and guideli
 * [4.4 Quality Control of Cement](#44-quality-control-of-cement)
 * [4.5 Quality Control of Aggregates](#45-quality-control-of-aggregates)
 * [4.6 Quality Control of Admixtures](#46-quality-control-of-admixtures)
-* [4.7 Quality Control of Concrete](#47-quality-control-of-concrete)
-* [4.8 Quality Control of Bricks](#48-quality-control-of-bricks)
-* [4.9 Quality Control of Steel](#49-quality-control-of-steel)
-* [4.10 Quality Control of Timber](#410-quality-control-of-timber)
-* [4.11 Site Quality Control and Documentation](#411-site-quality-control-and-documentation)
-* [4.12 Key IS Codes and Standards](#412-key-is-codes-and-standards)
-* [4.13 Activities / Exercises](#413-activities--exercises)
+* [4.7 Quality Control of water for Concrete Mixing](#47-quality-control-of-water-for-concrete-mixing)
+* [4.8 Quality Control of Concrete](#48-quality-control-of-concrete)
+* [4.9 Quality Control of Bricks](#49-quality-control-of-bricks)
+* [4.10 Quality Control of Steel](#410-quality-control-of-steel)
+* [4.11 Quality Control of Timber](#411-quality-control-of-timber)
+* [4.12 Site Quality Control and Documentation](#412-site-quality-control-and-documentation)
+* [4.13 Key IS Codes and Standards](#413-key-is-codes-and-standards)
+* [4.14 Activities / Exercises](#414-activities--exercises)
 
 ## **4.1 Introduction to Quality Control in Construction**
 
@@ -73,12 +74,13 @@ Each sub-section will have:
 ## 4.4 [Quality Control of Cement](Unit_4/QC_Cement.md)  
 ## 4.5 [Quality Control of Aggregates](Unit_4/QC_Aggregates.md)  
 ## 4.6 [Quality Control of Admixtures](Unit_4/QC_Admixtures.md)  
-## 4.7 [Quality Control of Concrete](Unit_4/QC_Concrete.md)  
-## 4.8 [Quality Control of Bricks](Unit_4/QC_Bricks.md)  
-## 4.9 [Quality Control of Steel](Unit_4/QC_Steel.md)  
-## 4.10 [Quality Control of Timber](Unit_4/QC_Timber.md)
+## 4.7 [Quality Control of Admixtures](Unit_4/QC_Admixtures.md)
+## 4.8 [Quality Control of Concrete](Unit_4/QC_Concrete.md)  
+## 4.9 [Quality Control of Bricks](Unit_4/QC_Bricks.md)  
+## 4.10 [Quality Control of Steel](Unit_4/QC_Steel.md)  
+## 4.11 [Quality Control of Timber](Unit_4/QC_Timber.md)
 
-## **4.11 Site Quality Control and Documentation**
+## **4.12 Site Quality Control and Documentation**
 
 **Essential QC records:**
 
@@ -94,7 +96,7 @@ Each sub-section will have:
 * Concrete pour card
 * Material traceability log
 
-## **4.12 Key IS Codes and Standards**
+## **4.13 Key IS Codes and Standards**
 
 | **Material** | **Key IS / ASTM Codes**                 |
 | ------------ | --------------------------------------- |
@@ -106,7 +108,7 @@ Each sub-section will have:
 | Steel        | IS 1786, IS 1608, IS 2062               |
 | Timber       | IS 287, IS 1708, IS 1734                |
 
-## **4.13 Activities / Exercises**
+## **4.14 Activities / Exercises**
 
 ### 🔹 Activity 1: Sampling Exercise
 
