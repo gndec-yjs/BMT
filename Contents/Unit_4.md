@@ -1,6 +1,6 @@
 ## **Unit 4: Quality Control of Building Materials**
 
-Quality control – Sampling, Acceptance criterion, Code of practice and guidelines for different building materials such as **Cement, Aggregates, Admixtures, Concrete, Bricks, Steel, and Timber**. *(5 Lectures)*
+Quality control – Sampling, Acceptance criterion, Code of practice and guidelines for different building materials such as **Cement, Aggregates, Admixtures, Concrete, Bricks, Steel, and Timber**.
 
 * [4.1 Introduction to Quality Control in Construction](#41-introduction-to-quality-control-in-construction)
 * [4.2 Sampling of Building Materials](#42-sampling-of-building-materials)
@@ -60,7 +60,7 @@ Acceptance is based on comparing **test results** with the **minimum required st
 | Steel        | Tensile strength, elongation              | IS 1786                | ≥ TMT Fe 500 → 545 MPa  |
 | Timber       | Moisture, bending, crushing strength      | IS 287                 | Moisture ≤ 12–15%       |
 
-## **4.4 – 4.10 Quality Control of Individual Materials**
+## **Quality Control of Individual Materials**
 
 Each sub-section will have:
 
@@ -70,14 +70,13 @@ Each sub-section will have:
 * Acceptance criteria (as per IS)
 * Documentation & checklists
 
-**(Links to detailed subfiles)**
-📖 [Quality Control of Cement](Unit_4/QC_Cement.md)  
-📖 [Quality Control of Aggregates](Unit_4/QC_Aggregates.md)  
-📖 [Quality Control of Admixtures](Unit_4/QC_Admixtures.md)  
-📖 [Quality Control of Concrete](Unit_4/QC_Concrete.md)  
-📖 [Quality Control of Bricks](Unit_4/QC_Bricks.md)  
-📖 [Quality Control of Steel](Unit_4/QC_Steel.md)  
-📖 [Quality Control of Timber](Unit_4/QC_Timber.md)
+## 4.4 [Quality Control of Cement](Unit_4/QC_Cement.md)  
+## 4.5 [Quality Control of Aggregates](Unit_4/QC_Aggregates.md)  
+## 4.6 [Quality Control of Admixtures](Unit_4/QC_Admixtures.md)  
+## 4.7 [Quality Control of Concrete](Unit_4/QC_Concrete.md)  
+## 4.8 [Quality Control of Bricks](Unit_4/QC_Bricks.md)  
+## 4.9 [Quality Control of Steel](Unit_4/QC_Steel.md)  
+## 4.10 [Quality Control of Timber](Unit_4/QC_Timber.md)
 
 ## **4.11 Site Quality Control and Documentation**
 
