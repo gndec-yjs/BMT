@@ -60,6 +60,8 @@ Cement is the most essential binding material in construction. Its quality direc
 
 ### **4.4.6 Laboratory Quality Tests (as per IS 4031 Series)**
 
+#### ***For detailed laboratory test procedures, [click here](https://gndec-yjs.github.io/CT/Contents/Cement.html), and for video demonstrations, [click here](https://gndec-yjs.github.io/CT/Contents/Videos.html).***
+
 | **Test**                                        | **Description / Purpose**                                                                      | **Typical Requirement (for OPC 43 Grade)**               | **Standard Reference** |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------- |
 | **Fineness (Blaine’s Air Permeability Method)** | Determines surface area of cement particles; affects hydration rate and early strength.        | ≥ 225 m²/kg                                              | IS 4031 (Part 2)       |
