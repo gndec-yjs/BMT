@@ -74,7 +74,7 @@ Each sub-section will have:
 ## 4.4 [Quality Control of Cement](Unit_4/QC_Cement.md)  
 ## 4.5 [Quality Control of Aggregates](Unit_4/QC_Aggregates.md)  
 ## 4.6 [Quality Control of Admixtures](Unit_4/QC_Admixtures.md)  
-## 4.7 [Quality Control of Admixtures](Unit_4/QC_Admixtures.md)
+## 4.7 [Quality Control of Water for Concrete Mixing](Unit_4/QC_Water.md)
 ## 4.8 [Quality Control of Concrete](Unit_4/QC_Concrete.md)  
 ## 4.9 [Quality Control of Bricks](Unit_4/QC_Bricks.md)  
 ## 4.10 [Quality Control of Steel](Unit_4/QC_Steel.md)  
