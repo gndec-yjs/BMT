@@ -4,7 +4,7 @@
 
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
-🚨 The due date for submitting Assignment 4 is November 02, 2025 (Sunday), by 11:59 PM. - [Click Here](https://gndec-yjs.github.io/BMT/Contents/Assignment_2025/4.html)
+🚨 The due date for submitting Assignment 4 is November 10, 2025 (Monday), by 11:59 PM. - [Click Here](https://gndec-yjs.github.io/BMT/Contents/Assignment_2025/4.html)
 </span>
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
