@@ -57,7 +57,9 @@ Characterization and testing involve evaluating the mechanical, physical, chemic
 | **Failure Investigation**  | Analyze material response under overload or environmental damage |
 | **Standardization**        | Establish benchmark data for reference                           |
 
-### **5.3 Types of Tests and Classification**
+### **5.3 Types of Tests and Classification** 
+
+#### To learn more about Testing of material - Visit Unit 5 of this [website](https://gndec-yjs.github.io/CT/Contents/Content.html)
 
 | **Category**                      | **Type of Test**                    | **Examples / Properties Measured**                     |
 | --------------------------------- | ----------------------------------- | ------------------------------------------------------ |
@@ -145,6 +147,8 @@ Equipment calibration, operator skill, and data-acquisition precision (as per AS
 | **Field Assessment** | Surface hardness, strength estimation | Rebound Hammer | Load impact | IS 13311 (Part 2):1992 |
 
 ### **5.7 Testing Procedures (Illustrative Examples)**
+
+#### To learn more about Testing of material - Visit Unit 5 of this [website](https://gndec-yjs.github.io/CT/Contents/Content.html)
 
 #### **(a) Compressive Strength of Concrete**
 
