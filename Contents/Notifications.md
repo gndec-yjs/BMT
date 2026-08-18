@@ -1,22 +1,18 @@
 # 🔔 Notifications
 
-> **Last Updated:** 5 October 2025  
-> Stay updated! Check this section regularly for course-related announcements.
+## **Semester:** July-Dec 2026
 
-## 📢 Current Announcements
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 The due date for submitting Assignment 1 is August 24, 2026 (Monday), by 11:59 PM. - [Click Here](https://gndec-yjs.github.io/BMT/Contents/Assignment_2026/1.html)
+</span>
 
-- **Assignment 3 Submission**
-  All students must **submit Assignment 3** by **October 12, 2025 (Sunday) 11:59 PM** via the provided [submission link](https://gndec-yjs.github.io/BMT/Contents/Assignment_2025/3.html).  
-
-- **Assignment 2 Submission**
-  All students must **submit Assignment 2** by **September 21, 2025 (Sunday) 11:59 PM** via the provided [submission link](https://gndec-yjs.github.io/BMT/Contents/Assignment_2025/2.html).  
-
-Late submissions **will not be accepted**, so plan accordingly.
-
-- **Assignment 1 Submission**
-  All students must **submit Assignment 1** by **August 30, 2025 (Saturday) 11:59 PM** via the provided [submission link](https://gndec-yjs.github.io/BMT/Contents/Assignment_2025/1.html).  
-
-Late submissions **will not be accepted**, so plan accordingly.
+<style>
+@keyframes blinker {
+  50% { opacity: 0; }
+}
+</style>  
 
 
----
+> **Old Notifications:**  
+- **[July-Dec 2025](Notifications_July-Dec_2025.md)**
+
