@@ -3,6 +3,10 @@
 ## **Semester:** July-Dec 2026
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 The due date for submitting Assignment 2 is September 18, 2026 (Friday), by 11:59 PM. - [Click Here](https://gndec-yjs.github.io/BMT/Contents/Assignment_2026/2.html)
+</span>
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 🚨 The due date for submitting Assignment 1 is August 24, 2026 (Monday), by 11:59 PM. - [Click Here](https://gndec-yjs.github.io/BMT/Contents/Assignment_2026/1.html)
 </span>
 
