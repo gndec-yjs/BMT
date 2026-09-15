@@ -1,6 +1,6 @@
 # Syllabus
 
-### **Course Code:** CCE201  
+### **Course Code:** CCE101  
 ### **Course Title:** Building Material and Testing  
 
 | **Programme:** B.Tech. | **L: 3 T: 0 P: 2** | **Credits:** 4 |
